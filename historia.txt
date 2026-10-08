@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Esto es
-Una introducción
-A la historia
-=======
-Adrian es tonto
-Adrian es feo
-Adrian no sabe nada
->>>>>>> dfd900fb1a04e1a515662c04fb1db13a956ac83b
